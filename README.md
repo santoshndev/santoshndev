@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @santoshndev
 - 👀 I’m interested in moodle development
-- 🌱 I’m currently working as a senior moodle developer
+- 🌱 I’m currently working as a Tech Lead
 - 📫 you can connect me at https://santoshnagargoje.in
 
 <!---
