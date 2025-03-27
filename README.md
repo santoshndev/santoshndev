@@ -2,6 +2,7 @@
 - 👀 I’m interested in Moodle development
 - 🌱 I’m currently working as a Tech Lead
 - I am an active Moodle Open Source Contributor.
+- Expert in IOMAD, Moodle, Totara Development.
 - 📫 you can connect me at https://santoshnagargoje.in
 
 <!---
